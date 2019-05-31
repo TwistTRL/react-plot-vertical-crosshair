@@ -1,4 +1,5 @@
 import {Component} from "react";
+import PropTypes from "prop-types";
 import {fromDomXCoord_Linear} from "plot-utils";
 
 class VerticalCrosshairSelector extends Component {
@@ -34,6 +35,14 @@ class VerticalCrosshairSelector extends Component {
       selectHandler(fromDomXCoord_Linear(width,minX,maxX,hoveringPosition.domX));
     }
   }
+}
+
+VerticalCrosshairSelector.propTypes = {
+  width: PropTypes.number.isRequired,
+  minX: PropTypes.number.isRequired,
+  maxX: PropTypes.number.isRequired,
+  hoveringPosition: PropTypes.object,
+  selectHandler: PropTypes.func.isRequired,
 }
 
 export default VerticalCrosshairSelector;

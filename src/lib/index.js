@@ -1,3 +1,5 @@
 import VerticalCrosshair from "./VerticalCrosshair";
+import VerticalCrosshairSelector from "./VerticalCrosshairSelector";
 
-export {VerticalCrosshair};
+export default VerticalCrosshair;
+export {VerticalCrosshairSelector};
