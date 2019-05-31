@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.9d313dd0.chunk.css",
-    "main.js": "/static/js/main.649ccaec.chunk.js",
-    "main.js.map": "/static/js/main.649ccaec.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/css/2.59ec12d7.chunk.css": "/static/css/2.59ec12d7.chunk.css",
-    "static/js/2.8c6520b2.chunk.js": "/static/js/2.8c6520b2.chunk.js",
-    "static/js/2.8c6520b2.chunk.js.map": "/static/js/2.8c6520b2.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.6cfd35feff00fe2fe9dd9a438a4c0bfe.js": "/precache-manifest.6cfd35feff00fe2fe9dd9a438a4c0bfe.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.59ec12d7.chunk.css.map": "/static/css/2.59ec12d7.chunk.css.map",
-    "static/css/main.9d313dd0.chunk.css.map": "/static/css/main.9d313dd0.chunk.css.map"
+    "main.css": "/react-plot-vertical-crosshair/static/css/main.9d313dd0.chunk.css",
+    "main.js": "/react-plot-vertical-crosshair/static/js/main.649ccaec.chunk.js",
+    "main.js.map": "/react-plot-vertical-crosshair/static/js/main.649ccaec.chunk.js.map",
+    "runtime~main.js": "/react-plot-vertical-crosshair/static/js/runtime~main.a7d316fa.js",
+    "runtime~main.js.map": "/react-plot-vertical-crosshair/static/js/runtime~main.a7d316fa.js.map",
+    "static/css/2.59ec12d7.chunk.css": "/react-plot-vertical-crosshair/static/css/2.59ec12d7.chunk.css",
+    "static/js/2.8c6520b2.chunk.js": "/react-plot-vertical-crosshair/static/js/2.8c6520b2.chunk.js",
+    "static/js/2.8c6520b2.chunk.js.map": "/react-plot-vertical-crosshair/static/js/2.8c6520b2.chunk.js.map",
+    "index.html": "/react-plot-vertical-crosshair/index.html",
+    "precache-manifest.2a683182558fbc028da68f3814e7e4e5.js": "/react-plot-vertical-crosshair/precache-manifest.2a683182558fbc028da68f3814e7e4e5.js",
+    "service-worker.js": "/react-plot-vertical-crosshair/service-worker.js",
+    "static/css/2.59ec12d7.chunk.css.map": "/react-plot-vertical-crosshair/static/css/2.59ec12d7.chunk.css.map",
+    "static/css/main.9d313dd0.chunk.css.map": "/react-plot-vertical-crosshair/static/css/main.9d313dd0.chunk.css.map"
   }
 }
